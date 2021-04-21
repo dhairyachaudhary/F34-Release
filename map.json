@@ -53,7 +53,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"DJ Snake, Lil Jon - Turn Down for What.mp3"
+                 "value":"Top 30 Most Iconic Edm SongsRave Nation.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -71,7 +71,7 @@
                 {
                  "name":"audioLoop",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"playAudio",
@@ -90,6 +90,17 @@
          "id":60,
          "name":"m4",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"Upbeat and Happy Background Music For YouTube Videos and Commercials.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":80,
