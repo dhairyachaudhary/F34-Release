@@ -30,7 +30,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/github.com\/dhairyachaudhary\/F34-Release\/blob\/e129e973d6bb8143a437793b5b26b2dcf365a8ae\/Birds%20In%20the%20Garden%20Sounds%20Nature%20Sound%20Effects%20Free%20to%20use.mp3"
+                 "value":"Birds In the Garden Sounds Nature Sound Effects Free to use.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
