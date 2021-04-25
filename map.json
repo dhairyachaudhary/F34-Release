@@ -23,6 +23,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"Footsteps Sound Effects Footstep Sound-[AudioTrimmer.com].mp3"
