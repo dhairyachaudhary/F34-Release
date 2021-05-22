@@ -19,7 +19,7 @@ You can create a virtual character and move around and socialize on the map. Whe
 * Scroll to the GitHub pages section on the settings tab and make sure that the gh-pages branch is selected
 * Now the map will be hosted on gh-pages and you can get the link from the settings tab. 
 * To make changes to the map, you'll have to edit the map.json file. Using Tiled is a very easy way to do this.
-* To add more functionality like non-playing characters or tutorials or just about anything, you'd want to make changes to script.json
+* To add more functionality like non-playing characters or tutorials or just about anything, you'd want to make changes to script.js
 * Happy playing!
 
 
