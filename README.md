@@ -1,7 +1,7 @@
 # F34 Release Party Map
 
 ### About
-This repository contains an 8-bit map created using Tiled and hosted on WorkAdventure. This was used for the hallway track of Fedora's 34th release party.
+This repository contains an 8-bit map created using Tiled and hosted on WorkAdventure and over 100 pieces of original pixel art created on Piskel. This was used for the hallway track of Fedora's 34th release party.
 
 You can create a virtual character and move around and socialize on the map. When you are in close proximity of another player, you will enter a video call with them. The map also has jitsi meets you can enter when you sit on some of the tables. This map features an arcade, a coffee shop, a movie hall, a patio, a pool, a juice bar, a dance floor, and a giant piano. 
 
@@ -10,8 +10,8 @@ You can create a virtual character and move around and socialize on the map. Whe
 
 ### Editing The Map
 **Tools you'll need:**
-* the Tiled editor software
-* "tiles" (i.e. images) to create your map
+* the [Tiled editor](https://www.mapeditor.org/) software
+* "tiles" (i.e. images) to create your map. You can create your own tiles using various software like [Piskel](https://www.piskelapp.com/) and [Krita](https://krita.org/en/), too. If you want pre-made ones, there are some excellent options available on [itch.io](https://itch.io/game-assets/free/tag-tileset) and [opengamemart](https://opengameart.org/content/tilesets-and-backgrounds-pixelart).
 * a web-server to serve your map (GitHub Static Pages in this case)
 
 **Steps:**
